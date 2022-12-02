@@ -22,4 +22,4 @@ My first repository
 ## TODO
 - [x] Reading
 - [ ] Enchance Knowledge
-- [ ] Apply in diffrent scenarios
+- [ ] Apply in diffrent scenarios.
